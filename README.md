@@ -1,5 +1,4 @@
-# Curso-Dev-Web
-Curso Desenvolvedor Web Full Stack
+# Curso-Desenvolvedor-Full-Stack
 Danki Code
 
 HTML, CSS, PHP, PHPMYADMIN
